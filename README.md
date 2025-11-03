@@ -63,3 +63,8 @@ The air towers can now be slid into the lower support piece. The dovetail connec
 #### Final assembly
 
 After all of the cable management is done you can put the ground slider in place and secure it to the case with the M5 countersunk bolts.
+
+## Thanks to
+
+- mon for [his case](https://github.com/mon/chuni_ac_3d_case) which I used for a couple of measurements (air tower height and angle)
+- All of the people in the cons&stuff discord
