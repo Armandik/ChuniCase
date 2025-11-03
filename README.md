@@ -38,12 +38,15 @@ disassemble the airs, place the air_upper_support and air_filler_piece between t
 #### Install the heat set inserts in the following locations:
 
 M4:
+
 <img src="pictures/m4_inserts.png" width="75%">
 
 M5:
+
 <img src="pictures/m5_inserts.png" width="75%">
 
 M3 (optional):
+
 <img src="pictures/m3_inserts.png" width="75%">
 
 the remaining M5 inserts can be used in the center case parts.
