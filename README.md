@@ -64,7 +64,12 @@ The air towers can now be slid into the lower support piece. The dovetail connec
 
 After all of the cable management is done you can put the ground slider in place and secure it to the case with the M5 countersunk bolts.
 
+## IO Version
+
+In the IO_version folder you will find the files for the center pieces with the standoffs for an io4 board. These standoffs use the same M3 inserts as the other ones.
+
 ## Thanks to
 
 - mon for [his case](https://github.com/mon/chuni_ac_3d_case) which I used for a couple of measurements (air tower height and angle)
+- Polaris for the io4 board measurements
 - All of the people in the cons&stuff discord
